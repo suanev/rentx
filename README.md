@@ -39,3 +39,8 @@ Para visualizar exemplos testados de todas as rotas da API, você pode importar 
 - Rent cars
 - And more...
 
+<div align="center">
+  <p>Desenvolvido por Suane Vallim</p>
+
+  [![Linkedin Badge](https://img.shields.io/badge/-Suane%20Vallim-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suane-vallim/)](https://www.linkedin.com/in/suane-vallim/) 
+</div>
